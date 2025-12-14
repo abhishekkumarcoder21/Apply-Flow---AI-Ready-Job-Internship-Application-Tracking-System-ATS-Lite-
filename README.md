@@ -150,8 +150,8 @@ Through this project, I gained hands-on experience with:
 
 ## 🌐 Live Demo
 
-🔗 **Live App:** *(add deployed link here)*
-🔗 **GitHub Repo:** *(this repository)*
+🔗 **Live App:** *https://apply-flow-ai-ready-job-internship.vercel.app/*
+🔗 **GitHub Repo:** *https://github.com/abhishekkumarcoder21/Apply-Flow---AI-Ready-Job-Internship-Application-Tracking-System-ATS-Lite-*
 
 ---
 
