@@ -305,7 +305,7 @@ export default function Landing() {
             <span className="font-semibold text-foreground">ApplyFlow</span>
           </div>
           <p className="text-sm text-muted-foreground">
-            © 2024 ApplyFlow. Built for ambitious developers.
+            © 2025 ApplyFlow. Built by Developer Abhishek Kumar. B.Tech @ Indian Institute of Information Technology Guwahati.
           </p>
         </div>
       </footer>
